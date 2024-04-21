@@ -1,4 +1,0 @@
-D:/programming/projects/cpp/CifKit/build/CMakeFiles/ALL_BUILD.dir
-D:/programming/projects/cpp/CifKit/build/CMakeFiles/ZERO_CHECK.dir
-D:/programming/projects/cpp/CifKit/build/CifReader/CMakeFiles/CifReader.dir
-D:/programming/projects/cpp/CifKit/build/Tests/CMakeFiles/Tests.dir
