@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\programming\projects\cpp\CifKit\build\CMakeFiles\8764bbf2ec02cd905b820a7ea1c862cc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\programming\projects\cpp\CifKit\CifReader\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\CifReader</Filter>
+    </None>
+    <None Include="D:\programming\projects\cpp\CifKit\Tests\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\Tests</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6BC56FEC-7FC3-3561-9157-AA0231D997BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\CifReader">
+      <UniqueIdentifier>{EF470350-4268-3EDE-A70A-69DBCF776E86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\Tests">
+      <UniqueIdentifier>{70F1652E-D93C-3C6D-BF73-3B7EF2AA8451}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
