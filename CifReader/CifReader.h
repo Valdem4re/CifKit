@@ -38,20 +38,3 @@ class CifReader {
         bool remove_;
         std::istream* input_stream_;
 };
-
-
-class Item {
-
-};
-
-class Loop {
-
-};
-
-class Block {
-    
-};
-
-class File {
-
-};
